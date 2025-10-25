@@ -3,9 +3,9 @@
 
 ## 👤 Información del alumno
 
-- Nombre:
-- Matrícula:
-- Fecha:
+- Nombre: Jade Giovanna Torres Espinosa
+- Matrícula:S25018112
+- Fecha:26/10/2025
 
 ## 🎯 Objetivos
 
