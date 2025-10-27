@@ -30,7 +30,7 @@ int main() {
             medio = num1;
             menor = num2;
         }
-    } else { // b >= a
+    } else {
         if (num2 > num3) {
             mayor = num2;
             if (num1 > num3) {
